@@ -1,0 +1,131 @@
+
+
+
+Body {
+
+Background-color:#f9ca24;
+
+}
+
+.titulo {
+With:40px;
+Height:150px; 
+border: 3px #fbc531;
+padding: 20px;
+Background-color: #f9ca24
+}
+
+.center {
+display: block;
+Margin: 20px; 
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+contenido{
+
+display:inline-block;
+padding:25px;
+Float:center;
+display:inline-block;
+padding:40px;
+Margin:30px;
+
+}
+
+
+
+a {
+
+padding-top: 50px;
+padding-right: 50px;
+padding-bottom: 50px;
+padding-left: 50px;
+font-family:arial;
+font-weight:bold;
+color: white;
+text-decoration: none; 
+}
+
+a:hover {
+Color:white;
+}
+
+
+div {
+With:500px;
+Height:320px; 
+padding: 20px;
+border: 3px #f9ca24;
+color: black;
+Floating: right;
+font-family:sans-serif;
+Background-color: #f9ca24
+}
+
+.navegador {
+With:50px;
+Height:50px; 
+padding: 10px;
+Background-color: #f9ca24;
+border: 3px #fbc531;
+Float:center;
+}
+
+Nav {
+padding-right: 25px;
+}
+
+Nav {
+Float:center;
+Text-align: center;
+padding-right: 5px;
+
+}
+
+P {
+font-family:arial;
+color: black;
+Margin: 50px;
+padding: 20px; 5px; 10px;
+font-family: 'Roboto', sans-serif;
+}
+
+.box {
+padding: 10%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+Height: 20%;
+}
+
+.buttermusic {
+padding: 50px;
+Margin: 50px;
+Background-color:#f9ca24;
+Float:center;
+
+} 
+
+.redsocial{
+Float:center;
+padding-right: 25px;
+}
+
+.middle{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 60%;
+}
+
+
+footer {
+padding: 25px;
+color:white;
+text-align: center;
+font-size: 10px;
+Float:center;
+}
